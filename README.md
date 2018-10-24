@@ -6,7 +6,7 @@ I've often been told that '_timezones are hard_', so, taking some inspiration fr
 
 ![Image from The Good Place: I don't know how to describe it... like, a different zone of time.](https://github.com/TheTeaNerd/clocklands/blob/master/readme/TheGoodPlace1.jpg)
 ![Image from The Good Place: No, that sounds stupid.](https://github.com/TheTeaNerd/clocklands/blob/master/readme/TheGoodPlace2.jpg)
-![Image from The Good Place: A different clock land.](https://github.com/TheTeaNerd/clocklands/blob/master/readme/TheGoodPlace1.jpg)
+![Image from The Good Place: A different clock land.](https://github.com/TheTeaNerd/clocklands/blob/master/readme/TheGoodPlace3.jpg)
 
 This may not be serious. Or even helpful.
 
